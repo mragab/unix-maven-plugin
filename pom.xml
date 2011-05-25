@@ -204,7 +204,7 @@
     <profile>
       <id>handbook</id>
       <activation>
-        <activeByDefault>true</activeByDefault>
+        <activeByDefault>false</activeByDefault>
       </activation>
       <modules>
         <module>unix-handbook</module>
